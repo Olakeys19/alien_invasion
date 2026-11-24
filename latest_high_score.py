@@ -1,0 +1,1 @@
+latest_high_score = 20503090
